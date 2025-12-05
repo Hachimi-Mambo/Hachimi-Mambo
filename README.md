@@ -1,35 +1,13 @@
-<!-- <div>
+<div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=19&height=150&section=header&reversal=false&fontSize=50&fontColor=FF6600&fontAlign=50&fontAlignY=35&desc=---Y_GUY---&descSize=30&descAlign=50&descAlignY=70&theme=shadow_red&text=VAN_CAP_TIEN_DUNG" 
 style="display:block; margin:0 auto; width:100%;"/>
-<img src="https://github.com/user-attachments/assets/6b77676e-ab06-4da0-ae45-6ff8f3117b51"
-       style="position:absolute; left:53%; top:140px; transform:translateX(60px);" width="50">
-<img src="https://github.com/user-attachments/assets/5ffdcbeb-0429-4084-ae5f-7bef8723ace3"
-       style="position:absolute; left:33%; top:140px; transform:translateX(60px);" width="50">
-
-</div> -->
-<div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=19&height=150&section=header&fontSize=50&fontColor=FF6600&fontAlign=50&fontAlignY=35&desc=---Y_GUY---&descSize=30&descAlign=50&descAlignY=70&theme=shadow_red&text=VAN_CAP_TIEN_DUNG"
-    style="width:100%; display:block; margin:0 auto;"
-  />
-  
-  <!-- ICONS -->
-  <img src="https://github.com/user-attachments/assets/6b77676e-ab06-4da0-ae45-6ff8f3117b51"
-       width="50"
-       style="margin-top:-90px; margin-left:20px;"/>
-  <img src="https://github.com/user-attachments/assets/5ffdcbeb-0429-4084-ae5f-7bef8723ace3"
-       width="50"
-       style="margin-top:-90px; margin-left:20px;"/>
-</div>
-### ⚡ I dont know why youre here. But youre here, sooooooooo.... havefun 👯
-
 <p align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=vancaptiendung&label=Profile%20views&color=29C7B4&style=flat" />
-  <img src="https://img.shields.io/badge/Pygame%20Programmer-FF0000?style=for-the-badge"
- alt="vandung" />
-  <img src="https://img.shields.io/badge/Python%20Programer-00ABFF?style=for-the-badge" alt="vandung" />
+  <img src="https://github.com/user-attachments/assets/5ffdcbeb-0429-4084-ae5f-7bef8723ace3" width="60" style="margin-right:40px;">
+  <img src="https://github.com/user-attachments/assets/6b77676e-ab06-4da0-ae45-6ff8f3117b51" width="60" style="margin-left:40px;">
 </p>
+
+</div>
+
 
 <hr>
 <br>
