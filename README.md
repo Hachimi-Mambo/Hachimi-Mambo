@@ -1,4 +1,9 @@
-## Hi there 👋 
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&&color=auto&customColorList=18&height=130&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=-&descSize=80&descAlign=50&descAlignY=50&theme=shadow_red&text=VAN_CAP_TIEN_DUNG"  style="display:block; margin:0 auto; width:100%;">
+  <h1 align="center" style="margin-top:-20px;"><img width="30" height="30" alt="Y" src="https://github.com/user-attachments/assets/5ffdcbeb-0429-4084-ae5f-7bef8723ace3" />
+ Y_GUY <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/6b77676e-ab06-4da0-ae45-6ff8f3117b51" />
+</h1>
+</div>
 ### ⚡ I dont know why youre here. But youre here, sooooooooo.... havefun 👯
 
 <p align="center">
